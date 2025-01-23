@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave" width="30px"> I'm Subin c
 </h1>
-<h3 align="center">A Passionate Flutter Developer from India</h3>
+<h3 align="center">A Passionate Application Developer from India</h3>
 
 
 ---
