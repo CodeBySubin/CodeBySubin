@@ -39,9 +39,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Subin-Developer&theme=dark" alt="Subin's GitHub Profile Details" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Subin-Developer&theme=dark" alt="Top Languages by Repository" width="48%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Subin-Developer&theme=dark" alt="Most Used Language" width="48%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeBySubin&theme=dark" alt="Subin's GitHub Profile Details" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CodeBySubin&theme=dark" alt="Top Languages by Repository" width="48%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CodeBySubin&theme=dark" alt="Most Used Language" width="48%">
 </p>
 
 ---
